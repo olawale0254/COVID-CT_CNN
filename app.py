@@ -4,7 +4,7 @@ import pandas as pd
 import tensorflow.keras
 from PIL import Image, ImageOps
 import seaborn as sns
-from cv2 import *
+from cv2 import cv2
 
 img1 = Image.open("img.jpg").convert('RGB')
 st.image([img1], width=100)
