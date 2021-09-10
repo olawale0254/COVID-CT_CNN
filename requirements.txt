@@ -4,3 +4,4 @@ tensorflow_hub==0.11.0
 numpy==1.19.5
 matplotlib==3.2.2
 Pillow==8.1.2
+seaborn==0.11.2
