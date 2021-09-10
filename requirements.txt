@@ -1,8 +1,7 @@
-tensorflow==2.2.0
-streamlit==0.78.0
-tensorflow_hub==0.11.0
+seaborn==0.11.1
+tensorflow==2.6.0
+streamlit==0.88.0
+pandas==1.2.4
 numpy==1.19.5
-matplotlib==3.2.2
-Pillow==8.1.2
-seaborn==0.11.2
-opencv==4.5.3.56
+opencv_python==4.5.3.56
+Pillow==8.3.2
